@@ -2,7 +2,7 @@
 # how to install it
 - gh repo clone ayman1902/rand-game
 - or
-- https://github.com/ayman1902/rand-game.git
+- git clone https://github.com/ayman1902/rand-game.git
 
 # humaine vs machine
 ![Figure_1](https://user-images.githubusercontent.com/49163010/101910907-eb746c00-3bbf-11eb-9d07-1e6b202f8360.png)
